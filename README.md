@@ -3,7 +3,8 @@
 ## 프로젝트 개요
 본 프로젝트는 버스 운전자의 졸음운전을 감지하고 예방하는 시스템을 개발하며, 고속도로 노선별 교통사고 데이터를 분석하여 안전한 운행 경로를 제시합니다.
 
-
+## 기간 
+- 2024. 09 
 ## 데이터 소스
 프로젝트에서 사용된 데이터는 다음 링크에서 확인할 수 있습니다:
 - [고속도로 노선별 교통사고 현황 데이터](https://drive.google.com/drive/folders/1Z_oWJ6AM-Q1QZdBMZnO8jVkCdGuHndzZ?usp=sharing)
@@ -14,7 +15,7 @@
 실시간 영상 처리와 딥러닝을 활용하여 운전자의 졸음 상태를 감지하고 경고하는 시스템입니다. 라즈베리파이 5와 카메라 모듈을 사용하여 운전자의 눈 감김과 하품을 실시간으로 감지하며, 위험 상황 발생 시 즉각적인 경고를 제공합니다.
 
 ## 📚 발표자료 링크
-- 📊 [발표자료료](https://drive.google.com/file/d/1VvYZi_TLRJagFjTqcLyYLVFQfkftC0LB/view?usp=sharing)
+- 📊 [발표자료](https://drive.google.com/file/d/1VvYZi_TLRJagFjTqcLyYLVFQfkftC0LB/view?usp=sharing)
 - 🎥 [시스템 구동 영상](https://drive.google.com/file/d/1kKJkofs_6sVcjkxZ52kIn9LiBUN8N8G9/view?usp=sharing)
 
 ## 🛠 주요 기능
