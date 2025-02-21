@@ -124,8 +124,7 @@ analyze_intersections(route_data, accident_data)
 ## 👥 개발자 정보
 - GitHub: https://github.com/ace062212
 - 이메일: ace062212@gmail.com
-- GitHub: https://github.com/ace062212
-- Blog: https://blog.naver.com/ace062212
+
 
 ## 📜 라이센스
 This project is licensed under the MIT License
