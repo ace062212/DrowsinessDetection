@@ -324,10 +324,15 @@ Rscript analysis/route_analysis_1.R
 
 ---
 
-## 📞 Contact
+## 📞 Contact (공동 작업자)
+
+- **박동균**
 - **Email**: ace062212@gmail.com
 - **GitHub**: [ace062212](https://github.com/ace062212)
 
+- **김재현**  
+- **Email**: nicegame9510@gmail.com
+- **GitHub**: [kimjaekim](https://github.com/kimjaekim)
 ---
 
 *"라즈베리파이로 첫 임베디드 시스템을 개발하며, 기술이 현실에서 어떻게 작동하는지 배운 프로젝트"*
